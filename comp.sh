@@ -1,3 +1,3 @@
 #!/bin/bash
 
-g++ main.cpp TreeNode.cpp -o output && ./output
+g++ main.cpp TreeNode.cpp -o treecheck && ./treecheck
